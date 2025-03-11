@@ -19,7 +19,7 @@ public class Cardapio {
                 return item;
             }
         }
-        return null; // Retorna null se não encontrar
+        return null;
     }
 
 
